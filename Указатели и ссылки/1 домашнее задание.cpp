@@ -1,7 +1,5 @@
 // Определить указатель на массив символов (строку)
 
-
-
 #include<iostream>
 
 using namespace std;
